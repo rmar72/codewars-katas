@@ -51,7 +51,7 @@ There's a folder for each kata nested in its own kyu
 - [LeetCode](https://leetcode.com)
 - [CodeChef](https://www.codechef.com)
 - [CoderByte](https://coderbyte.com)
-- [CodeFights](https://codefights.com)
+- [CodeSignal](https://codesignal.com)
 - [HackerRank](https://www.hackerrank.com)
 
 ## License
