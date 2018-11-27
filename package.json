@@ -1,0 +1,39 @@
+{
+  "name": "codewars-katas",
+  "version": "1.0.0",
+  "description": "🥋 Codewars katas",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmar72/codewars-katas.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Ruben Solorio",
+    "email": "rsolm72@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmar72/codewars-katas/issues"
+  },
+  "homepage": "https://github.com/rmar72/codewars-katas#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "eslint-plugin-jest": "^22.0.1",
+    "jest": "^23.6.0",
+    "jest-extended": "^0.11.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest -o --watch"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testPathIgnorePatterns": [
+      "./boilerplate.js",
+      "./boilerplate.test.js"
+    ],
+    "setupTestFrameworkScriptFile": "jest-extended"
+  }
+}
