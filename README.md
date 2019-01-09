@@ -38,21 +38,21 @@ There's a folder for each kata nested in its own kyu
 
 
 ## Development Dependencies
-- Testing: [Jest](https://github.com/facebook/jest) & [Jest-extended](https://github.com/jest-community/jest-extended)
+- Testing: [Jest](https://github.com/facebook/jest)
 
 ## Learning Resources
 * ES6 / ES2015
 
 ## Similar Plattforms
 
+- [CodeSignal](https://codesignal.com)
+- [HackerRank](https://www.hackerrank.com)
 - [Codility](https://codility.com)
 - [Exercism](http://exercism.io)
 - [CodeEval](https://www.codeeval.com)
 - [LeetCode](https://leetcode.com)
 - [CodeChef](https://www.codechef.com)
 - [CoderByte](https://coderbyte.com)
-- [CodeSignal](https://codesignal.com)
-- [HackerRank](https://www.hackerrank.com)
 
 ## License
 
