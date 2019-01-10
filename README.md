@@ -43,7 +43,7 @@ There's a folder for each kata nested in its own kyu
 ## Learning Resources
 * ES6 / ES2015
 
-## Similar Plattforms
+## Similar Platforms
 
 - [CodeSignal](https://codesignal.com)
 - [HackerRank](https://www.hackerrank.com)
